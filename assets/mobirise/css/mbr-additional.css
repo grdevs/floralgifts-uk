@@ -1721,6 +1721,16 @@ body {
   width: 100%;
   color: #000000;
 }
+.cid-rR89DdI8VR .mainlogo {
+  top: 0px;
+  width: 30%;
+  height: auto;
+}
+@media (max-width: 576px) {
+  .cid-rR89DdI8VR .mainlogo {
+    width: 100%;
+  }
+}
 .cid-rR80hFKj57 {
   padding-top: 45px;
   padding-bottom: 15px;
